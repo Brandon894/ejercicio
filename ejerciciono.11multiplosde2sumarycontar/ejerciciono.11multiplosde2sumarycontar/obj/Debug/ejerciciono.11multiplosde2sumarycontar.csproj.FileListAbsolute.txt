@@ -1,0 +1,6 @@
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.11multiplosde2sumarycontar\ejerciciono.11multiplosde2sumarycontar\bin\Debug\ejerciciono.11multiplosde2sumarycontar.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.11multiplosde2sumarycontar\ejerciciono.11multiplosde2sumarycontar\bin\Debug\ejerciciono.11multiplosde2sumarycontar.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.11multiplosde2sumarycontar\ejerciciono.11multiplosde2sumarycontar\bin\Debug\ejerciciono.11multiplosde2sumarycontar.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.11multiplosde2sumarycontar\ejerciciono.11multiplosde2sumarycontar\obj\Debug\ejerciciono.11multiplosde2sumarycontar.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.11multiplosde2sumarycontar\ejerciciono.11multiplosde2sumarycontar\obj\Debug\ejerciciono.11multiplosde2sumarycontar.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.11multiplosde2sumarycontar\ejerciciono.11multiplosde2sumarycontar\obj\Debug\ejerciciono.11multiplosde2sumarycontar.pdb

@@ -1,0 +1,6 @@
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.14lasumadecuadrados\ejerciciono.14lasumadecuadrados\bin\Debug\ejerciciono.14lasumadecuadrados.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.14lasumadecuadrados\ejerciciono.14lasumadecuadrados\bin\Debug\ejerciciono.14lasumadecuadrados.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.14lasumadecuadrados\ejerciciono.14lasumadecuadrados\bin\Debug\ejerciciono.14lasumadecuadrados.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.14lasumadecuadrados\ejerciciono.14lasumadecuadrados\obj\Debug\ejerciciono.14lasumadecuadrados.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.14lasumadecuadrados\ejerciciono.14lasumadecuadrados\obj\Debug\ejerciciono.14lasumadecuadrados.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.14lasumadecuadrados\ejerciciono.14lasumadecuadrados\obj\Debug\ejerciciono.14lasumadecuadrados.pdb

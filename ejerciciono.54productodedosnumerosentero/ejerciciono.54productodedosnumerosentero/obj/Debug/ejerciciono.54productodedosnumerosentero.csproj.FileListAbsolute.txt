@@ -1,0 +1,6 @@
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.54productodedosnumerosentero\ejerciciono.54productodedosnumerosentero\bin\Debug\ejerciciono.54productodedosnumerosentero.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.54productodedosnumerosentero\ejerciciono.54productodedosnumerosentero\bin\Debug\ejerciciono.54productodedosnumerosentero.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.54productodedosnumerosentero\ejerciciono.54productodedosnumerosentero\bin\Debug\ejerciciono.54productodedosnumerosentero.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.54productodedosnumerosentero\ejerciciono.54productodedosnumerosentero\obj\Debug\ejerciciono.54productodedosnumerosentero.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.54productodedosnumerosentero\ejerciciono.54productodedosnumerosentero\obj\Debug\ejerciciono.54productodedosnumerosentero.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.54productodedosnumerosentero\ejerciciono.54productodedosnumerosentero\obj\Debug\ejerciciono.54productodedosnumerosentero.pdb

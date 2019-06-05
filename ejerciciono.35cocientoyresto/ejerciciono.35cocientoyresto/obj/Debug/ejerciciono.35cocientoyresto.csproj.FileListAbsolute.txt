@@ -1,0 +1,6 @@
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.35cocientoyresto\ejerciciono.35cocientoyresto\bin\Debug\ejerciciono.35cocientoyresto.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.35cocientoyresto\ejerciciono.35cocientoyresto\bin\Debug\ejerciciono.35cocientoyresto.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.35cocientoyresto\ejerciciono.35cocientoyresto\bin\Debug\ejerciciono.35cocientoyresto.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.35cocientoyresto\ejerciciono.35cocientoyresto\obj\Debug\ejerciciono.35cocientoyresto.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.35cocientoyresto\ejerciciono.35cocientoyresto\obj\Debug\ejerciciono.35cocientoyresto.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.35cocientoyresto\ejerciciono.35cocientoyresto\obj\Debug\ejerciciono.35cocientoyresto.pdb

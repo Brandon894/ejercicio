@@ -1,0 +1,6 @@
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.49tresnumenteros\ejerciciono.49tresnumenteros\bin\Debug\ejerciciono.49tresnumenteros.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.49tresnumenteros\ejerciciono.49tresnumenteros\bin\Debug\ejerciciono.49tresnumenteros.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.49tresnumenteros\ejerciciono.49tresnumenteros\bin\Debug\ejerciciono.49tresnumenteros.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.49tresnumenteros\ejerciciono.49tresnumenteros\obj\Debug\ejerciciono.49tresnumenteros.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.49tresnumenteros\ejerciciono.49tresnumenteros\obj\Debug\ejerciciono.49tresnumenteros.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.49tresnumenteros\ejerciciono.49tresnumenteros\obj\Debug\ejerciciono.49tresnumenteros.pdb

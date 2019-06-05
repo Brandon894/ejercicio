@@ -1,0 +1,6 @@
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.7NumerosNaturales\ejerciciono.7NumerosNaturales\bin\Debug\ejerciciono.7NumerosNaturales.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.7NumerosNaturales\ejerciciono.7NumerosNaturales\bin\Debug\ejerciciono.7NumerosNaturales.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.7NumerosNaturales\ejerciciono.7NumerosNaturales\bin\Debug\ejerciciono.7NumerosNaturales.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.7NumerosNaturales\ejerciciono.7NumerosNaturales\obj\Debug\ejerciciono.7NumerosNaturales.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.7NumerosNaturales\ejerciciono.7NumerosNaturales\obj\Debug\ejerciciono.7NumerosNaturales.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.7NumerosNaturales\ejerciciono.7NumerosNaturales\obj\Debug\ejerciciono.7NumerosNaturales.pdb

@@ -1,0 +1,6 @@
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.30mayoryporcentajes\ejerciciono.30mayoryporcentajes\bin\Debug\ejerciciono.30mayoryporcentajes.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.30mayoryporcentajes\ejerciciono.30mayoryporcentajes\bin\Debug\ejerciciono.30mayoryporcentajes.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.30mayoryporcentajes\ejerciciono.30mayoryporcentajes\bin\Debug\ejerciciono.30mayoryporcentajes.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.30mayoryporcentajes\ejerciciono.30mayoryporcentajes\obj\Debug\ejerciciono.30mayoryporcentajes.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.30mayoryporcentajes\ejerciciono.30mayoryporcentajes\obj\Debug\ejerciciono.30mayoryporcentajes.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.30mayoryporcentajes\ejerciciono.30mayoryporcentajes\obj\Debug\ejerciciono.30mayoryporcentajes.pdb

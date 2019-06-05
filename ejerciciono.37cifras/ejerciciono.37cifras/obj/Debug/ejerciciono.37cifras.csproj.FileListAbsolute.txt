@@ -1,0 +1,6 @@
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.37cifras\ejerciciono.37cifras\bin\Debug\ejerciciono.37cifras.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.37cifras\ejerciciono.37cifras\bin\Debug\ejerciciono.37cifras.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.37cifras\ejerciciono.37cifras\bin\Debug\ejerciciono.37cifras.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.37cifras\ejerciciono.37cifras\obj\Debug\ejerciciono.37cifras.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.37cifras\ejerciciono.37cifras\obj\Debug\ejerciciono.37cifras.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.37cifras\ejerciciono.37cifras\obj\Debug\ejerciciono.37cifras.pdb

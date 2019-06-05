@@ -1,0 +1,6 @@
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.28sumarmultiplosde5ymayor\ejerciciono.28sumarmultiplosde5ymayor\bin\Debug\ejerciciono.28sumarmultiplosde5ymayor.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.28sumarmultiplosde5ymayor\ejerciciono.28sumarmultiplosde5ymayor\bin\Debug\ejerciciono.28sumarmultiplosde5ymayor.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.28sumarmultiplosde5ymayor\ejerciciono.28sumarmultiplosde5ymayor\bin\Debug\ejerciciono.28sumarmultiplosde5ymayor.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.28sumarmultiplosde5ymayor\ejerciciono.28sumarmultiplosde5ymayor\obj\Debug\ejerciciono.28sumarmultiplosde5ymayor.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.28sumarmultiplosde5ymayor\ejerciciono.28sumarmultiplosde5ymayor\obj\Debug\ejerciciono.28sumarmultiplosde5ymayor.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.28sumarmultiplosde5ymayor\ejerciciono.28sumarmultiplosde5ymayor\obj\Debug\ejerciciono.28sumarmultiplosde5ymayor.pdb

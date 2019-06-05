@@ -1,0 +1,6 @@
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.32contarysumarmultiplosde2\ejerciciono.32contarysumarmultiplosde2\bin\Debug\ejerciciono.32contarysumarmultiplosde2.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.32contarysumarmultiplosde2\ejerciciono.32contarysumarmultiplosde2\bin\Debug\ejerciciono.32contarysumarmultiplosde2.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.32contarysumarmultiplosde2\ejerciciono.32contarysumarmultiplosde2\bin\Debug\ejerciciono.32contarysumarmultiplosde2.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.32contarysumarmultiplosde2\ejerciciono.32contarysumarmultiplosde2\obj\Debug\ejerciciono.32contarysumarmultiplosde2.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.32contarysumarmultiplosde2\ejerciciono.32contarysumarmultiplosde2\obj\Debug\ejerciciono.32contarysumarmultiplosde2.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.32contarysumarmultiplosde2\ejerciciono.32contarysumarmultiplosde2\obj\Debug\ejerciciono.32contarysumarmultiplosde2.pdb

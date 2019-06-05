@@ -1,0 +1,6 @@
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.5Impareshasta100ycontar\ejerciciono.5Impareshasta100ycontar\bin\Debug\ejerciciono.5Impareshasta100ycontar.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.5Impareshasta100ycontar\ejerciciono.5Impareshasta100ycontar\obj\Debug\ejerciciono.5Impareshasta100ycontar.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.5Impareshasta100ycontar\ejerciciono.5Impareshasta100ycontar\bin\Debug\ejerciciono.5Impareshasta100ycontar.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.5Impareshasta100ycontar\ejerciciono.5Impareshasta100ycontar\bin\Debug\ejerciciono.5Impareshasta100ycontar.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.5Impareshasta100ycontar\ejerciciono.5Impareshasta100ycontar\obj\Debug\ejerciciono.5Impareshasta100ycontar.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.5Impareshasta100ycontar\ejerciciono.5Impareshasta100ycontar\obj\Debug\ejerciciono.5Impareshasta100ycontar.pdb

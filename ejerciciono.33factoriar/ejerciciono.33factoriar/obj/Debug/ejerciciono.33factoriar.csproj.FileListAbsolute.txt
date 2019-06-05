@@ -1,0 +1,6 @@
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.33factoriar\ejerciciono.33factoriar\bin\Debug\ejerciciono.33factoriar.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.33factoriar\ejerciciono.33factoriar\bin\Debug\ejerciciono.33factoriar.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.33factoriar\ejerciciono.33factoriar\bin\Debug\ejerciciono.33factoriar.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.33factoriar\ejerciciono.33factoriar\obj\Debug\ejerciciono.33factoriar.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.33factoriar\ejerciciono.33factoriar\obj\Debug\ejerciciono.33factoriar.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.33factoriar\ejerciciono.33factoriar\obj\Debug\ejerciciono.33factoriar.pdb

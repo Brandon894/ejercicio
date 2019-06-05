@@ -1,0 +1,6 @@
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.25nomultiplosde2\ejerciciono.25nomultiplosde2\bin\Debug\ejerciciono.25nomultiplosde2.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.25nomultiplosde2\ejerciciono.25nomultiplosde2\bin\Debug\ejerciciono.25nomultiplosde2.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.25nomultiplosde2\ejerciciono.25nomultiplosde2\bin\Debug\ejerciciono.25nomultiplosde2.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.25nomultiplosde2\ejerciciono.25nomultiplosde2\obj\Debug\ejerciciono.25nomultiplosde2.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.25nomultiplosde2\ejerciciono.25nomultiplosde2\obj\Debug\ejerciciono.25nomultiplosde2.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.25nomultiplosde2\ejerciciono.25nomultiplosde2\obj\Debug\ejerciciono.25nomultiplosde2.pdb

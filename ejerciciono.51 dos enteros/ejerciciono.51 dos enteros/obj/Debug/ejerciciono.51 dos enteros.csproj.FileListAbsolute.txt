@@ -1,0 +1,6 @@
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.51 dos enteros\ejerciciono.51 dos enteros\bin\Debug\ejerciciono.51 dos enteros.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.51 dos enteros\ejerciciono.51 dos enteros\bin\Debug\ejerciciono.51 dos enteros.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.51 dos enteros\ejerciciono.51 dos enteros\bin\Debug\ejerciciono.51 dos enteros.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.51 dos enteros\ejerciciono.51 dos enteros\obj\Debug\ejerciciono.51 dos enteros.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.51 dos enteros\ejerciciono.51 dos enteros\obj\Debug\ejerciciono.51 dos enteros.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.51 dos enteros\ejerciciono.51 dos enteros\obj\Debug\ejerciciono.51 dos enteros.pdb

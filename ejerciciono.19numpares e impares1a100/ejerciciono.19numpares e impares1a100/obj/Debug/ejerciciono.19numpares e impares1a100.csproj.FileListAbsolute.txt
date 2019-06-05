@@ -1,0 +1,6 @@
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.19numpares e impares1a100\ejerciciono.19numpares e impares1a100\bin\Debug\ejerciciono.19numpares e impares1a100.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.19numpares e impares1a100\ejerciciono.19numpares e impares1a100\bin\Debug\ejerciciono.19numpares e impares1a100.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.19numpares e impares1a100\ejerciciono.19numpares e impares1a100\bin\Debug\ejerciciono.19numpares e impares1a100.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.19numpares e impares1a100\ejerciciono.19numpares e impares1a100\obj\Debug\ejerciciono.19numpares e impares1a100.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.19numpares e impares1a100\ejerciciono.19numpares e impares1a100\obj\Debug\ejerciciono.19numpares e impares1a100.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.19numpares e impares1a100\ejerciciono.19numpares e impares1a100\obj\Debug\ejerciciono.19numpares e impares1a100.pdb

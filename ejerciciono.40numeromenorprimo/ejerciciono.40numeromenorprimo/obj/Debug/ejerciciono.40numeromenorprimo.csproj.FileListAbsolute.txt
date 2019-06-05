@@ -1,0 +1,6 @@
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.40numeromenorprimo\ejerciciono.40numeromenorprimo\bin\Debug\ejerciciono.40numeromenorprimo.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.40numeromenorprimo\ejerciciono.40numeromenorprimo\bin\Debug\ejerciciono.40numeromenorprimo.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.40numeromenorprimo\ejerciciono.40numeromenorprimo\bin\Debug\ejerciciono.40numeromenorprimo.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.40numeromenorprimo\ejerciciono.40numeromenorprimo\obj\Debug\ejerciciono.40numeromenorprimo.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.40numeromenorprimo\ejerciciono.40numeromenorprimo\obj\Debug\ejerciciono.40numeromenorprimo.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.40numeromenorprimo\ejerciciono.40numeromenorprimo\obj\Debug\ejerciciono.40numeromenorprimo.pdb

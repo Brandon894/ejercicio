@@ -1,0 +1,6 @@
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.44cocienteyresto\ejerciciono.44cocienteyresto\bin\Debug\ejerciciono.44cocienteyresto.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.44cocienteyresto\ejerciciono.44cocienteyresto\bin\Debug\ejerciciono.44cocienteyresto.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.44cocienteyresto\ejerciciono.44cocienteyresto\bin\Debug\ejerciciono.44cocienteyresto.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.44cocienteyresto\ejerciciono.44cocienteyresto\obj\Debug\ejerciciono.44cocienteyresto.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.44cocienteyresto\ejerciciono.44cocienteyresto\obj\Debug\ejerciciono.44cocienteyresto.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.44cocienteyresto\ejerciciono.44cocienteyresto\obj\Debug\ejerciciono.44cocienteyresto.pdb

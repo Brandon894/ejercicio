@@ -1,0 +1,6 @@
+c:\users\usuario\documents\visual studio 2015\Projects\eºjerciciono.48dosenteros\eºjerciciono.48dosenteros\bin\Debug\eºjerciciono.48dosenteros.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\eºjerciciono.48dosenteros\eºjerciciono.48dosenteros\bin\Debug\eºjerciciono.48dosenteros.exe
+c:\users\usuario\documents\visual studio 2015\Projects\eºjerciciono.48dosenteros\eºjerciciono.48dosenteros\bin\Debug\eºjerciciono.48dosenteros.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\eºjerciciono.48dosenteros\eºjerciciono.48dosenteros\obj\Debug\eºjerciciono.48dosenteros.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\eºjerciciono.48dosenteros\eºjerciciono.48dosenteros\obj\Debug\eºjerciciono.48dosenteros.exe
+c:\users\usuario\documents\visual studio 2015\Projects\eºjerciciono.48dosenteros\eºjerciciono.48dosenteros\obj\Debug\eºjerciciono.48dosenteros.pdb

@@ -1,0 +1,6 @@
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.6imparesdesde100hastaUnidad\ejerciciono.6imparesdesde100hastaUnidad\bin\Debug\ejerciciono.6imparesdesde100hastaUnidad.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.6imparesdesde100hastaUnidad\ejerciciono.6imparesdesde100hastaUnidad\bin\Debug\ejerciciono.6imparesdesde100hastaUnidad.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.6imparesdesde100hastaUnidad\ejerciciono.6imparesdesde100hastaUnidad\bin\Debug\ejerciciono.6imparesdesde100hastaUnidad.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.6imparesdesde100hastaUnidad\ejerciciono.6imparesdesde100hastaUnidad\obj\Debug\ejerciciono.6imparesdesde100hastaUnidad.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.6imparesdesde100hastaUnidad\ejerciciono.6imparesdesde100hastaUnidad\obj\Debug\ejerciciono.6imparesdesde100hastaUnidad.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.6imparesdesde100hastaUnidad\ejerciciono.6imparesdesde100hastaUnidad\obj\Debug\ejerciciono.6imparesdesde100hastaUnidad.pdb

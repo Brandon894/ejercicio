@@ -1,0 +1,6 @@
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.1Impresiondenumerosdel0al100\ejerciciono.1Impresiondenumerosdel0al100\bin\Debug\ejerciciono.1Impresiondenumerosdel0al100.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.1Impresiondenumerosdel0al100\ejerciciono.1Impresiondenumerosdel0al100\bin\Debug\ejerciciono.1Impresiondenumerosdel0al100.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.1Impresiondenumerosdel0al100\ejerciciono.1Impresiondenumerosdel0al100\bin\Debug\ejerciciono.1Impresiondenumerosdel0al100.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.1Impresiondenumerosdel0al100\ejerciciono.1Impresiondenumerosdel0al100\obj\Debug\ejerciciono.1Impresiondenumerosdel0al100.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.1Impresiondenumerosdel0al100\ejerciciono.1Impresiondenumerosdel0al100\obj\Debug\ejerciciono.1Impresiondenumerosdel0al100.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.1Impresiondenumerosdel0al100\ejerciciono.1Impresiondenumerosdel0al100\obj\Debug\ejerciciono.1Impresiondenumerosdel0al100.pdb

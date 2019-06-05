@@ -1,0 +1,6 @@
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.18multiplosde3\ejerciciono.18multiplosde3\bin\Debug\ejerciciono.18multiplosde3.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.18multiplosde3\ejerciciono.18multiplosde3\bin\Debug\ejerciciono.18multiplosde3.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.18multiplosde3\ejerciciono.18multiplosde3\bin\Debug\ejerciciono.18multiplosde3.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.18multiplosde3\ejerciciono.18multiplosde3\obj\Debug\ejerciciono.18multiplosde3.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.18multiplosde3\ejerciciono.18multiplosde3\obj\Debug\ejerciciono.18multiplosde3.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.18multiplosde3\ejerciciono.18multiplosde3\obj\Debug\ejerciciono.18multiplosde3.pdb

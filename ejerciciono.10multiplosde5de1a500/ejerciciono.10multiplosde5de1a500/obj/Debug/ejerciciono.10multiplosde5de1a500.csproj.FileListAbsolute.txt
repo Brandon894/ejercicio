@@ -1,0 +1,6 @@
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.10multiplosde5de1a500\ejerciciono.10multiplosde5de1a500\bin\Debug\ejerciciono.10multiplosde5de1a500.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.10multiplosde5de1a500\ejerciciono.10multiplosde5de1a500\bin\Debug\ejerciciono.10multiplosde5de1a500.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.10multiplosde5de1a500\ejerciciono.10multiplosde5de1a500\bin\Debug\ejerciciono.10multiplosde5de1a500.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.10multiplosde5de1a500\ejerciciono.10multiplosde5de1a500\obj\Debug\ejerciciono.10multiplosde5de1a500.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.10multiplosde5de1a500\ejerciciono.10multiplosde5de1a500\obj\Debug\ejerciciono.10multiplosde5de1a500.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.10multiplosde5de1a500\ejerciciono.10multiplosde5de1a500\obj\Debug\ejerciciono.10multiplosde5de1a500.pdb

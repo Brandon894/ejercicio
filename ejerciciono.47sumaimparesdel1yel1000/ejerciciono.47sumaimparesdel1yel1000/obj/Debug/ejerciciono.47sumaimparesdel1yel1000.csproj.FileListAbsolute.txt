@@ -1,0 +1,6 @@
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.47sumaimparesdel1yel1000\ejerciciono.47sumaimparesdel1yel1000\bin\Debug\ejerciciono.47sumaimparesdel1yel1000.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.47sumaimparesdel1yel1000\ejerciciono.47sumaimparesdel1yel1000\bin\Debug\ejerciciono.47sumaimparesdel1yel1000.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.47sumaimparesdel1yel1000\ejerciciono.47sumaimparesdel1yel1000\bin\Debug\ejerciciono.47sumaimparesdel1yel1000.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.47sumaimparesdel1yel1000\ejerciciono.47sumaimparesdel1yel1000\obj\Debug\ejerciciono.47sumaimparesdel1yel1000.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.47sumaimparesdel1yel1000\ejerciciono.47sumaimparesdel1yel1000\obj\Debug\ejerciciono.47sumaimparesdel1yel1000.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.47sumaimparesdel1yel1000\ejerciciono.47sumaimparesdel1yel1000\obj\Debug\ejerciciono.47sumaimparesdel1yel1000.pdb

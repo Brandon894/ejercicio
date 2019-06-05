@@ -1,0 +1,6 @@
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.50radiodelacircuferencia\ejerciciono.50radiodelacircuferencia\bin\Debug\ejerciciono.50radiodelacircuferencia.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.50radiodelacircuferencia\ejerciciono.50radiodelacircuferencia\bin\Debug\ejerciciono.50radiodelacircuferencia.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.50radiodelacircuferencia\ejerciciono.50radiodelacircuferencia\bin\Debug\ejerciciono.50radiodelacircuferencia.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.50radiodelacircuferencia\ejerciciono.50radiodelacircuferencia\obj\Debug\ejerciciono.50radiodelacircuferencia.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.50radiodelacircuferencia\ejerciciono.50radiodelacircuferencia\obj\Debug\ejerciciono.50radiodelacircuferencia.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.50radiodelacircuferencia\ejerciciono.50radiodelacircuferencia\obj\Debug\ejerciciono.50radiodelacircuferencia.pdb

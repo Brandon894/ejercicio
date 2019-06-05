@@ -1,0 +1,6 @@
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.39seriefibbonacci\ejerciciono.39seriefibbonacci\bin\Debug\ejerciciono.39seriefibbonacci.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.39seriefibbonacci\ejerciciono.39seriefibbonacci\bin\Debug\ejerciciono.39seriefibbonacci.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.39seriefibbonacci\ejerciciono.39seriefibbonacci\bin\Debug\ejerciciono.39seriefibbonacci.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.39seriefibbonacci\ejerciciono.39seriefibbonacci\obj\Debug\ejerciciono.39seriefibbonacci.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.39seriefibbonacci\ejerciciono.39seriefibbonacci\obj\Debug\ejerciciono.39seriefibbonacci.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.39seriefibbonacci\ejerciciono.39seriefibbonacci\obj\Debug\ejerciciono.39seriefibbonacci.pdb

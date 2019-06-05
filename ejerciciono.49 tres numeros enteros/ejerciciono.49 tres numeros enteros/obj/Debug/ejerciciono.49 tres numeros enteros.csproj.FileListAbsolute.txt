@@ -1,0 +1,6 @@
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.49 tres numeros enteros\ejerciciono.49 tres numeros enteros\bin\Debug\ejerciciono.49 tres numeros enteros.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.49 tres numeros enteros\ejerciciono.49 tres numeros enteros\bin\Debug\ejerciciono.49 tres numeros enteros.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.49 tres numeros enteros\ejerciciono.49 tres numeros enteros\bin\Debug\ejerciciono.49 tres numeros enteros.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.49 tres numeros enteros\ejerciciono.49 tres numeros enteros\obj\Debug\ejerciciono.49 tres numeros enteros.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.49 tres numeros enteros\ejerciciono.49 tres numeros enteros\obj\Debug\ejerciciono.49 tres numeros enteros.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.49 tres numeros enteros\ejerciciono.49 tres numeros enteros\obj\Debug\ejerciciono.49 tres numeros enteros.pdb

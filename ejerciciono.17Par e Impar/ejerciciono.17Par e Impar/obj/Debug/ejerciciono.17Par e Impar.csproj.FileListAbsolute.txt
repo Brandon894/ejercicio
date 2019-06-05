@@ -1,0 +1,6 @@
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.17Par e Impar\ejerciciono.17Par e Impar\bin\Debug\ejerciciono.17Par e Impar.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.17Par e Impar\ejerciciono.17Par e Impar\bin\Debug\ejerciciono.17Par e Impar.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.17Par e Impar\ejerciciono.17Par e Impar\bin\Debug\ejerciciono.17Par e Impar.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.17Par e Impar\ejerciciono.17Par e Impar\obj\Debug\ejerciciono.17Par e Impar.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.17Par e Impar\ejerciciono.17Par e Impar\obj\Debug\ejerciciono.17Par e Impar.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.17Par e Impar\ejerciciono.17Par e Impar\obj\Debug\ejerciciono.17Par e Impar.pdb

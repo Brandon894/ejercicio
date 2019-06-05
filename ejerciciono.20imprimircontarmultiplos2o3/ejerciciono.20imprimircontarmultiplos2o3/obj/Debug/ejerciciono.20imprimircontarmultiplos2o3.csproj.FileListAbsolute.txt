@@ -1,0 +1,6 @@
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.20imprimircontarmultiplos2o3\ejerciciono.20imprimircontarmultiplos2o3\bin\Debug\ejerciciono.20imprimircontarmultiplos2o3.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.20imprimircontarmultiplos2o3\ejerciciono.20imprimircontarmultiplos2o3\bin\Debug\ejerciciono.20imprimircontarmultiplos2o3.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.20imprimircontarmultiplos2o3\ejerciciono.20imprimircontarmultiplos2o3\bin\Debug\ejerciciono.20imprimircontarmultiplos2o3.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.20imprimircontarmultiplos2o3\ejerciciono.20imprimircontarmultiplos2o3\obj\Debug\ejerciciono.20imprimircontarmultiplos2o3.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.20imprimircontarmultiplos2o3\ejerciciono.20imprimircontarmultiplos2o3\obj\Debug\ejerciciono.20imprimircontarmultiplos2o3.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.20imprimircontarmultiplos2o3\ejerciciono.20imprimircontarmultiplos2o3\obj\Debug\ejerciciono.20imprimircontarmultiplos2o3.pdb

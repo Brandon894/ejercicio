@@ -1,0 +1,6 @@
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.26multiplosde5ymas\ejerciciono.26multiplosde5ymas\bin\Debug\ejerciciono.26multiplosde5ymas.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.26multiplosde5ymas\ejerciciono.26multiplosde5ymas\bin\Debug\ejerciciono.26multiplosde5ymas.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.26multiplosde5ymas\ejerciciono.26multiplosde5ymas\bin\Debug\ejerciciono.26multiplosde5ymas.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.26multiplosde5ymas\ejerciciono.26multiplosde5ymas\obj\Debug\ejerciciono.26multiplosde5ymas.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.26multiplosde5ymas\ejerciciono.26multiplosde5ymas\obj\Debug\ejerciciono.26multiplosde5ymas.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.26multiplosde5ymas\ejerciciono.26multiplosde5ymas\obj\Debug\ejerciciono.26multiplosde5ymas.pdb

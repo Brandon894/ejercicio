@@ -1,0 +1,6 @@
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.52 cuadrado y cubo\ejerciciono.52 cuadrado y cubo\bin\Debug\ejerciciono.52 cuadrado y cubo.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.52 cuadrado y cubo\ejerciciono.52 cuadrado y cubo\bin\Debug\ejerciciono.52 cuadrado y cubo.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.52 cuadrado y cubo\ejerciciono.52 cuadrado y cubo\bin\Debug\ejerciciono.52 cuadrado y cubo.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.52 cuadrado y cubo\ejerciciono.52 cuadrado y cubo\obj\Debug\ejerciciono.52 cuadrado y cubo.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.52 cuadrado y cubo\ejerciciono.52 cuadrado y cubo\obj\Debug\ejerciciono.52 cuadrado y cubo.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.52 cuadrado y cubo\ejerciciono.52 cuadrado y cubo\obj\Debug\ejerciciono.52 cuadrado y cubo.pdb

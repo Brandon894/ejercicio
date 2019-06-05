@@ -1,0 +1,6 @@
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.31seriede10\ejerciciono.31seriede10\bin\Debug\ejerciciono.31seriede10.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.31seriede10\ejerciciono.31seriede10\bin\Debug\ejerciciono.31seriede10.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.31seriede10\ejerciciono.31seriede10\bin\Debug\ejerciciono.31seriede10.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.31seriede10\ejerciciono.31seriede10\obj\Debug\ejerciciono.31seriede10.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.31seriede10\ejerciciono.31seriede10\obj\Debug\ejerciciono.31seriede10.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.31seriede10\ejerciciono.31seriede10\obj\Debug\ejerciciono.31seriede10.pdb

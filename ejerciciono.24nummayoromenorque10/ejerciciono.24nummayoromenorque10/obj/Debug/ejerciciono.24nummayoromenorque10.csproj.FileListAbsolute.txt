@@ -1,0 +1,6 @@
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.24nummayoromenorque10\ejerciciono.24nummayoromenorque10\bin\Debug\ejerciciono.24nummayoromenorque10.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.24nummayoromenorque10\ejerciciono.24nummayoromenorque10\bin\Debug\ejerciciono.24nummayoromenorque10.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.24nummayoromenorque10\ejerciciono.24nummayoromenorque10\bin\Debug\ejerciciono.24nummayoromenorque10.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.24nummayoromenorque10\ejerciciono.24nummayoromenorque10\obj\Debug\ejerciciono.24nummayoromenorque10.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.24nummayoromenorque10\ejerciciono.24nummayoromenorque10\obj\Debug\ejerciciono.24nummayoromenorque10.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.24nummayoromenorque10\ejerciciono.24nummayoromenorque10\obj\Debug\ejerciciono.24nummayoromenorque10.pdb

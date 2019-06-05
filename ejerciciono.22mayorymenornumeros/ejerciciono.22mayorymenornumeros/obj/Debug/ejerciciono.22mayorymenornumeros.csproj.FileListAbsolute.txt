@@ -1,0 +1,6 @@
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.22mayorymenornumeros\ejerciciono.22mayorymenornumeros\bin\Debug\ejerciciono.22mayorymenornumeros.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.22mayorymenornumeros\ejerciciono.22mayorymenornumeros\bin\Debug\ejerciciono.22mayorymenornumeros.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.22mayorymenornumeros\ejerciciono.22mayorymenornumeros\bin\Debug\ejerciciono.22mayorymenornumeros.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.22mayorymenornumeros\ejerciciono.22mayorymenornumeros\obj\Debug\ejerciciono.22mayorymenornumeros.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.22mayorymenornumeros\ejerciciono.22mayorymenornumeros\obj\Debug\ejerciciono.22mayorymenornumeros.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.22mayorymenornumeros\ejerciciono.22mayorymenornumeros\obj\Debug\ejerciciono.22mayorymenornumeros.pdb

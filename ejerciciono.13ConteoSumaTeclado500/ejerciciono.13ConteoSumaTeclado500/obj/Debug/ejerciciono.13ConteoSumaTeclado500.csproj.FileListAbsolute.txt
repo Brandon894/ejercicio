@@ -1,0 +1,6 @@
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.13ConteoSumaTeclado500\ejerciciono.13ConteoSumaTeclado500\bin\Debug\ejerciciono.13ConteoSumaTeclado500.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.13ConteoSumaTeclado500\ejerciciono.13ConteoSumaTeclado500\bin\Debug\ejerciciono.13ConteoSumaTeclado500.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.13ConteoSumaTeclado500\ejerciciono.13ConteoSumaTeclado500\bin\Debug\ejerciciono.13ConteoSumaTeclado500.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.13ConteoSumaTeclado500\ejerciciono.13ConteoSumaTeclado500\obj\Debug\ejerciciono.13ConteoSumaTeclado500.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.13ConteoSumaTeclado500\ejerciciono.13ConteoSumaTeclado500\obj\Debug\ejerciciono.13ConteoSumaTeclado500.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.13ConteoSumaTeclado500\ejerciciono.13ConteoSumaTeclado500\obj\Debug\ejerciciono.13ConteoSumaTeclado500.pdb

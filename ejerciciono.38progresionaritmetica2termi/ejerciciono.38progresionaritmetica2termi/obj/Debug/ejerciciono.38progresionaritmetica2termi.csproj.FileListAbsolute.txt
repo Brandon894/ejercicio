@@ -1,0 +1,6 @@
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.38progresionaritmetica2termi\ejerciciono.38progresionaritmetica2termi\bin\Debug\ejerciciono.38progresionaritmetica2termi.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.38progresionaritmetica2termi\ejerciciono.38progresionaritmetica2termi\bin\Debug\ejerciciono.38progresionaritmetica2termi.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.38progresionaritmetica2termi\ejerciciono.38progresionaritmetica2termi\bin\Debug\ejerciciono.38progresionaritmetica2termi.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.38progresionaritmetica2termi\ejerciciono.38progresionaritmetica2termi\obj\Debug\ejerciciono.38progresionaritmetica2termi.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.38progresionaritmetica2termi\ejerciciono.38progresionaritmetica2termi\obj\Debug\ejerciciono.38progresionaritmetica2termi.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ejerciciono.38progresionaritmetica2termi\ejerciciono.38progresionaritmetica2termi\obj\Debug\ejerciciono.38progresionaritmetica2termi.pdb
